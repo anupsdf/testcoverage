@@ -1,5 +1,0 @@
-cargo:rerun-if-changed=/Users/anuppani/temp/rs-soroban-env/.git/index
-cargo:rerun-if-changed=/Users/anuppani/temp/rs-soroban-env/.git/HEAD
-cargo:rerun-if-changed=/Users/anuppani/temp/rs-soroban-env/.git/refs
-cargo:rustc-env=GIT_REVISION=33912e6a43cf6a87ff4a177b481a4281b269ae53
-
